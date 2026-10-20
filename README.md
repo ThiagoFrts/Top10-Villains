@@ -2,9 +2,9 @@
 
 Projeto do curso de Informática para Internet, feito com HTML, CSS e JavaScript. A página inicial mostra um ranking dos 10 vilões mais marcantes do cinema, e cada vilão tem uma página com a sua história.
 
-## Como abrir
+## Acesse meu projeto
 
-Baixe o projeto e abra o arquivo `index.html` no navegador.
+https://top10viloescinema.netlify.app/
 
 ## Vilões
 
