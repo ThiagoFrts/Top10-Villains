@@ -8,7 +8,7 @@ https://top10viloescinema.netlify.app/
 
 ## Vilões
 
-. Lotso
+10. Lotso
 9. Tai Lung
 8. Duende Verde
 7. Loki
